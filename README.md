@@ -33,7 +33,7 @@ app/
 ├── templates/           # Templates HTML
 ├── database/            # Couche de persistance
 ├── app.py               # Point d'entrée
-└──  View.py
+└── view.py
 ```
 
 ## 📥 Installation

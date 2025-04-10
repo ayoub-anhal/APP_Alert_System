@@ -24,7 +24,7 @@ APP Alert System est une solution innovante qui combine des techniques avancées
 
 
 
-## 🏗️ Architecture
+## 🏗 Architecture
 
 ```
 app/
@@ -36,7 +36,7 @@ app/
 └── view.py
 ```
 
-## 📥 Installation
+##  Installation
 
 ```bash
 # Cloner le dépôt
@@ -49,7 +49,7 @@ source venv/bin/activate  # ou .\venv\Scripts\activate sous Windows
 
 ```
 
-## 🚀 Usage
+##  Usage
 
 ```bash
 python app.py
@@ -57,21 +57,21 @@ python app.py
 
 Accédez à l'application via `http://localhost:8000`
 
-## 🧠 Modèles
+##  Modèles
 
 Le système utilise plusieurs architectures de deep learning pour la classification et la détection:
 * CNN personnalisé optimisé pour la détection de flammes et fumée
 * VGGNet pour la classification d'images
 * YOLO pour la localisation précise des incendies en temps réel
 
-## 📊 Performance
+##  Performance
 
 - Temps de détection moyen : < 3 secondes
 - Précision : 97.8%
 - Rappel : 96.5%
 - Support multi-caméras : jusqu'à 32 flux simultanés
 
-## 🔄 Intégration
+##  Intégration
 
 APP Alert System s'intègre facilement avec:
 - Systèmes d'alarme existants
@@ -79,7 +79,7 @@ APP Alert System s'intègre facilement avec:
 - Plateformes IoT
 - Systèmes de sécurité professionnels
 
-## 📱 Application mobile
+##  Application mobile
 
 Une application mobile complémentaire est disponible pour:
 - Recevoir des alertes instantanées
@@ -87,14 +87,14 @@ Une application mobile complémentaire est disponible pour:
 - Contrôler le système à distance
 - Consulter l'historique des incidents
 
-## 👥 Cas d'utilisation
+##  Cas d'utilisation
 
 - **Entreprises**: Protection des locaux commerciaux et industriels
 - **Établissements publics**: Écoles, hôpitaux, administrations
 - **Secteur forestier**: Surveillance des zones à risque
 - **Domiciles**: Sécurisation des habitations particulières
 
-## 🛠️ Maintenance
+## 🛠 Maintenance
 
 Le projet est activement maintenu et régulièrement mis à jour. Pour signaler un bug ou suggérer une amélioration, veuillez ouvrir une issue sur GitHub.
 

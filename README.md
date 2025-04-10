@@ -31,11 +31,10 @@ app/
 ├── models/              # Modèles de deep learning
 ├── static/              # Assets statiques (CSS, JS)
 ├── templates/           # Templates HTML
-├── fire_detection/      # Algorithmes de détection
 ├── database/            # Couche de persistance
 ├── utils/               # Fonctions utilitaires
 ├── app.py               # Point d'entrée
-├── app.py 
+├── View.py
 └── requirements.txt     # Dépendances
 ```
 

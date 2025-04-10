@@ -1,10 +1,16 @@
 # APP Alert System 🔥👁️
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.9.0-orange)
+![Flask](https://img.shields.io/badge/Flask-2.2.2-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.6.0-blue)
+![YOLO](https://img.shields.io/badge/YOLO-v5-yellow)
+![Status](https://img.shields.io/badge/Status-Production-green)
 
 ## Système intelligent de détection et prévention d'incendies basé sur le Deep Learning
 
 ![APP Alert System](diagramme.png)
 
-## 🌟 Caractéristiques principales
+##  Caractéristiques principales
 
 - **Détection en temps réel** : Identification des incendies dès leur apparition
 - **Haute précision** : Taux de détection > 95% avec un faible taux de faux positifs
@@ -12,18 +18,18 @@
 - **Interface intuitive** : Tableau de bord convivial pour la surveillance et la configuration
 - **Adaptation contextuelle** : Performance optimisée pour différents environnements (industriel, résidentiel, forestier)
 
-## 📋 Description
+##  Description
 
 APP Alert System est une solution innovante qui combine des techniques avancées de Computer Vision et Deep Learning pour détecter les incendies en temps réel via une interface web accessible. Le système analyse continuellement les flux vidéo pour identifier les signes précoces d'incendie, permettant une intervention rapide et limitant les dégâts potentiels.
 
-## 🛠️ Technologies
+## 🛠 Technologies
 
 * Python 3.8+
-* TensorFlow / PyTorch
-* Flask
-* OpenCV
-* YOLO (You Only Look Once)
-* SQLite / PostgreSQL
+* TensorFlow 2.9.0 / PyTorch 1.12.0
+* Flask 2.2.2
+* OpenCV 4.6.0
+* YOLO v5 (You Only Look Once)
+* SQLite 3.36.0 / PostgreSQL 14.5
 * WebSockets pour les mises à jour en temps réel
 
 ## 🏗️ Architecture
@@ -61,7 +67,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Accédez à l'application via `http://localhost:5000`
+Accédez à l'application via `http://localhost:8000`
 
 ## 🧠 Modèles
 
@@ -104,18 +110,8 @@ Une application mobile complémentaire est disponible pour:
 
 Le projet est activement maintenu et régulièrement mis à jour. Pour signaler un bug ou suggérer une amélioration, veuillez ouvrir une issue sur GitHub.
 
-## 📜 Licence
-
-MIT
 
 ## 📞 Contact
 
-* Auteur: Votre Nom
-* Email: contact@example.com
-* Site web: [www.appalertsystem.com](http://www.appalertsystem.com)
-
-## 🔗 Liens utiles
-
-- [Documentation complète](https://docs.appalertsystem.com)
-- [Démonstration en ligne](https://demo.appalertsystem.com)
-- [FAQ](https://appalertsystem.com/faq)
+* Auteur: Ayoub Anhal
+* Email: ayoubanhal01@gmail.com

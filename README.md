@@ -32,10 +32,8 @@ app/
 ├── static/              # Assets statiques (CSS, JS)
 ├── templates/           # Templates HTML
 ├── database/            # Couche de persistance
-├── utils/               # Fonctions utilitaires
 ├── app.py               # Point d'entrée
-├── View.py
-└── requirements.txt     # Dépendances
+└──  View.py
 ```
 
 ## 📥 Installation

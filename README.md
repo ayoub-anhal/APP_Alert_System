@@ -22,15 +22,7 @@
 
 APP Alert System est une solution innovante qui combine des techniques avancées de Computer Vision et Deep Learning pour détecter les incendies en temps réel via une interface web accessible. Le système analyse continuellement les flux vidéo pour identifier les signes précoces d'incendie, permettant une intervention rapide et limitant les dégâts potentiels.
 
-## 🛠 Technologies
 
-* Python 3.8+
-* TensorFlow 2.9.0 / PyTorch 1.12.0
-* Flask 2.2.2
-* OpenCV 4.6.0
-* YOLO v5 (You Only Look Once)
-* SQLite 3.36.0 / PostgreSQL 14.5
-* WebSockets pour les mises à jour en temps réel
 
 ## 🏗️ Architecture
 
@@ -43,6 +35,7 @@ app/
 ├── database/            # Couche de persistance
 ├── utils/               # Fonctions utilitaires
 ├── app.py               # Point d'entrée
+├── app.py 
 └── requirements.txt     # Dépendances
 ```
 

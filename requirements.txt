@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+tensorflow
+opencv-python
+yolov5
+pygame
+numpy
+matplotlib
+torch

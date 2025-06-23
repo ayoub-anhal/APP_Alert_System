@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+
+# Local virtual environments
+venv/
+ENV/
+.env
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+instance/*.db
+
+# MacOS
+.DS_Store
